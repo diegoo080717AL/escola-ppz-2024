@@ -3,8 +3,6 @@
 ➡️ _MY NAME IS DIEGO_}
 ➡️ _IM 16 years old}
 ➡️ _I LIVE ON BRASIL
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoo080717AL&show_icons=true&theme=merko)
 ----------------------------
 ⭐**ABOUT OF MY LIKES**⭐
 
@@ -17,6 +15,4 @@
 ⭐**ABOUT OF MY graphic**
 
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoo080717AL&show_icons=true&theme=merko)
